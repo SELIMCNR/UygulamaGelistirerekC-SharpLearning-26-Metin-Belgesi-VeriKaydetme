@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\bin\Debug\Metinbelgesiverikaydetme.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\bin\Debug\Metinbelgesiverikaydetme.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\bin\Debug\Metinbelgesiverikaydetme.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project35\Metinbelgesiverikaydetme\Metinbelgesiverikaydetme\obj\Debug\Metinbelgesiverikaydetme.pdb
